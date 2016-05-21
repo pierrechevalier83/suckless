@@ -1,0 +1,12 @@
+[submodule "surf"]
+	path = surf
+	url = git@github.com:pierrechevalier83/surf.git
+[submodule "st"]
+	path = st
+	url = git@github.com:pierrechevalier83/st.git
+[submodule "dmenu"]
+	path = dmenu
+	url = git@github.com:pierrechevalier83/dmenu.git
+[submodule "tabbed"]
+	path = tabbed
+	url = git@github.com:pierrechevalier83/tabbed.git
