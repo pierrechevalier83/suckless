@@ -10,3 +10,6 @@
 [submodule "tabbed"]
 	path = tabbed
 	url = git@github.com:pierrechevalier83/tabbed.git
+[submodule "dwm"]
+	path = dwm
+	url = git@github.com:pierrechevalier83/dwm.git
